@@ -1,0 +1,28 @@
+.bg-color{
+    background-color:#FFF9F4;
+}
+.btn-color{
+    color: white;
+    background-image: linear-gradient( #3D4FF3 ,#3543BC);
+    width :170px;
+    height :60px;
+
+border-radius :10px;
+}
+.price{
+    color: #FA804C;
+    ;
+}
+
+.card img{
+    
+    background-color: #F1F1F1;
+
+}
+.icon img{
+    width: 74px;
+    height: 84px;
+}
+.margin{
+   margin: 10%;
+}
